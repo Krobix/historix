@@ -1,2 +1,2 @@
 # historix
-History simulator, written in Electron JS.
+History simulator, written in nw.js.
